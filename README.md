@@ -4,9 +4,9 @@
 
 # Raja Kasir
 
-### Aplikasi kasir yang ringan, cepat, dan mudah untuk toko Anda
+### Sistem kasir & manajemen ritel profesional
 
-Berjalan di komputer Anda sendiri · Tetap bekerja tanpa internet · Data sepenuhnya milik Anda
+Cepat di meja kasir · Lengkap untuk pengelolaan toko · Tetap bekerja tanpa internet · Data sepenuhnya milik Anda
 
 [![Unduh versi terbaru](https://img.shields.io/github/v/release/firexsantos/rajakasir-releases?label=versi%20terbaru&color=8b5cff)](https://github.com/firexsantos/rajakasir-releases/releases/latest)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-36d6ff)
