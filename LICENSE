@@ -1,0 +1,160 @@
+PERJANJIAN LISENSI PENGGUNA AKHIR (EULA)
+RAJA KASIR
+Versi 1.0 — berlaku sejak 19 Oktober 2026
+
+Hak Cipta © 2026 Raja Coding — Firman Santosa, M.Kom. Seluruh hak dilindungi undang-undang.
+Website: https://rajacoding.com · WhatsApp: +62 812-1858-819 · Email: firman.snts@gmail.com
+
+PENTING — BACALAH DENGAN SAKSAMA. Perjanjian ini adalah perjanjian yang sah antara Anda (perorangan atau
+badan usaha yang memasang atau menggunakan perangkat lunak, selanjutnya "Pengguna") dan Raja Coding
+(selanjutnya "Pemberi Lisensi") mengenai perangkat lunak Raja Kasir, termasuk program, pembaruan,
+dokumentasi, dan berkas terkait (selanjutnya "Perangkat Lunak"). Dengan memasang, mengaktifkan, atau
+menggunakan Perangkat Lunak, Pengguna menyatakan telah membaca, memahami, dan menyetujui Perjanjian ini.
+Jika tidak setuju, jangan memasang atau menggunakan Perangkat Lunak.
+
+1. KEPEMILIKAN
+1.1 Perangkat Lunak adalah ciptaan berupa program komputer yang dilindungi Undang-Undang Nomor 28 Tahun
+    2014 tentang Hak Cipta dan peraturan perundang-undangan lain yang berlaku. Seluruh hak cipta, hak
+    kekayaan intelektual, merek, dan rahasia dagang atas Perangkat Lunak tetap milik Pemberi Lisensi.
+1.2 Perangkat Lunak dilisensikan, bukan dijual. Pengguna hanya memperoleh hak pakai sebagaimana diatur
+    dalam Perjanjian ini.
+
+2. PEMBERIAN LISENSI
+2.1 Setelah pembayaran lunas dan aktivasi dengan key lisensi yang sah, Pemberi Lisensi memberikan kepada
+    Pengguna hak yang tidak eksklusif, tidak dapat dialihkan, dan tidak dapat disublisensikan untuk
+    memasang dan menggunakan Perangkat Lunak pada SATU (1) perangkat komputer untuk setiap key lisensi,
+    untuk keperluan operasional usaha Pengguna sendiri.
+2.2 Setiap key lisensi terikat pada ID Perangkat yang ditampilkan Perangkat Lunak saat aktivasi dan hanya
+    berlaku untuk perangkat tersebut. Penggunaan pada perangkat tambahan memerlukan key lisensi tambahan.
+2.3 Lisensi berlaku tanpa batas waktu selama Pengguna mematuhi Perjanjian ini, kecuali dinyatakan lain
+    secara tertulis pada saat pembelian.
+2.4 Pengguna boleh membuat salinan cadangan berkas pemasang (installer) untuk keperluan pemasangan ulang
+    pada perangkat yang sama.
+
+3. PEMBATASAN
+Pengguna DILARANG, baik sendiri maupun melalui pihak lain, untuk:
+a. menyalin, memasang, atau menggunakan Perangkat Lunak di luar yang diizinkan Pasal 2;
+b. membagikan, menjual, menyewakan, meminjamkan, atau mengalihkan Perangkat Lunak atau key lisensi
+   kepada pihak lain;
+c. melakukan rekayasa balik (reverse engineering), membongkar (decompile/disassemble), atau berupaya
+   memperoleh kode sumber Perangkat Lunak, kecuali sejauh diizinkan secara tegas oleh undang-undang;
+d. mengubah, menerjemahkan, atau membuat karya turunan dari Perangkat Lunak;
+e. menghindari, menonaktifkan, atau mengakali mekanisme lisensi, aktivasi, atau perlindungan teknis
+   Perangkat Lunak, termasuk membuat atau menggunakan key lisensi yang tidak diterbitkan Pemberi Lisensi;
+f. menghapus atau mengubah pemberitahuan hak cipta, merek, atau label kepemilikan;
+g. menggunakan Perangkat Lunak untuk kegiatan yang melanggar hukum.
+
+4. PERPINDAHAN PERANGKAT
+4.1 Jika perangkat rusak, diganti, atau sistem operasinya dipasang ulang sehingga ID Perangkat berubah,
+    Pengguna dapat mengajukan penggantian key lisensi kepada Pemberi Lisensi dengan menyertakan nomor seri
+    lisensi lama dan ID Perangkat baru.
+4.2 Penggantian diberikan atas kebijakan wajar Pemberi Lisensi dengan syarat Perangkat Lunak tidak lagi
+    digunakan pada perangkat lama. Pemberi Lisensi berhak menolak permintaan yang tidak wajar atau
+    berulang.
+
+5. DATA PENGGUNA DAN PRIVASI
+5.1 Seluruh data usaha yang dimasukkan Pengguna (barang, transaksi, pelanggan, karyawan, dan lainnya)
+    adalah milik Pengguna dan disimpan pada perangkat atau server basis data milik Pengguna.
+5.2 Perangkat Lunak tidak mengirimkan data usaha Pengguna kepada Pemberi Lisensi. Untuk pemeriksaan
+    pembaruan, Perangkat Lunak menghubungi layanan GitHub (https://github.com) guna mengunduh informasi
+    versi dan berkas pembaruan; dalam proses ini alamat IP dan informasi teknis standar dapat diterima
+    oleh penyedia layanan tersebut.
+5.3 Pengguna bertanggung jawab atas pencadangan data secara berkala serta atas kepatuhan terhadap
+    peraturan yang berlaku bagi usahanya, termasuk perpajakan dan perlindungan data pribadi.
+
+6. PEMBARUAN DAN DUKUNGAN
+6.1 Pemberi Lisensi dapat menyediakan pembaruan (update) Perangkat Lunak dari waktu ke waktu. Pembaruan
+    tunduk pada Perjanjian ini kecuali disertai ketentuan lain.
+6.2 Pemberi Lisensi tidak berkewajiban menyediakan pembaruan, fitur tertentu, atau layanan dukungan,
+    kecuali disepakati secara tertulis.
+
+7. KOMPONEN PIHAK KETIGA
+Perangkat Lunak memuat komponen sumber terbuka milik pihak ketiga yang tunduk pada lisensinya
+masing-masing. Daftar dan teks lisensinya tersedia di halaman Tentang dan dalam berkas
+"third-party-notices.txt". Perjanjian ini tidak membatasi hak Pengguna berdasarkan lisensi tersebut atas
+komponen tersebut.
+
+8. JAMINAN TERBATAS
+8.1 Pemberi Lisensi menjamin bahwa Perangkat Lunak, pada saat diserahkan, pada pokoknya berfungsi sesuai
+    uraian fiturnya.
+8.2 Sejauh diizinkan hukum yang berlaku, selain jaminan pada ayat 8.1, Perangkat Lunak disediakan
+    "SEBAGAIMANA ADANYA" tanpa jaminan lain, baik tersurat maupun tersirat, termasuk jaminan bebas
+    kesalahan, tidak terganggu, atau kesesuaian untuk tujuan tertentu.
+
+9. BATASAN TANGGUNG JAWAB
+9.1 Sejauh diizinkan hukum yang berlaku, Pemberi Lisensi tidak bertanggung jawab atas kerugian tidak
+    langsung, insidental, atau konsekuensial, termasuk kehilangan keuntungan, kehilangan data, atau
+    terhentinya usaha, yang timbul dari penggunaan atau ketidakmampuan menggunakan Perangkat Lunak.
+9.2 Total tanggung jawab Pemberi Lisensi berdasarkan Perjanjian ini tidak melebihi jumlah yang telah
+    dibayarkan Pengguna untuk lisensi yang bersangkutan.
+
+10. PENGAKHIRAN
+10.1 Lisensi berakhir secara otomatis apabila Pengguna melanggar Perjanjian ini dan tidak memperbaikinya
+     dalam waktu 14 (empat belas) hari sejak pemberitahuan dari Pemberi Lisensi, atau seketika untuk
+     pelanggaran Pasal 3 huruf b, c, atau e.
+10.2 Setelah lisensi berakhir, Pengguna wajib menghentikan penggunaan dan menghapus Perangkat Lunak.
+     Data usaha Pengguna tetap menjadi milik Pengguna.
+
+11. HUKUM YANG BERLAKU DAN PENYELESAIAN SENGKETA
+11.1 Perjanjian ini tunduk pada hukum Negara Republik Indonesia.
+11.2 Sengketa diselesaikan terlebih dahulu secara musyawarah. Apabila dalam 30 (tiga puluh) hari tidak
+     tercapai kesepakatan, sengketa diselesaikan melalui Pengadilan Negeri di wilayah hukum domisili
+     Pemberi Lisensi.
+
+12. LAIN-LAIN
+12.1 Apabila suatu ketentuan Perjanjian ini dinyatakan tidak sah, ketentuan lainnya tetap berlaku.
+12.2 Perjanjian ini merupakan keseluruhan kesepakatan para pihak mengenai Perangkat Lunak dan
+     menggantikan kesepakatan sebelumnya mengenai hal yang sama.
+12.3 Perjanjian ini dibuat dalam Bahasa Indonesia dan Bahasa Inggris. Apabila terdapat perbedaan
+     penafsiran, versi Bahasa Indonesia yang berlaku.
+
+
+======================================================================================================
+
+END USER LICENSE AGREEMENT (EULA) — RAJA KASIR
+Version 1.0 — effective 19 October 2026
+English translation. In case of any difference, the Indonesian version above prevails.
+
+Copyright © 2026 Raja Coding — Firman Santosa, M.Kom. All rights reserved.
+
+By installing, activating or using Raja Kasir (the "Software") you ("User") agree to this Agreement with
+Raja Coding ("Licensor"). If you do not agree, do not install or use the Software.
+
+1. OWNERSHIP. The Software is a computer program protected by Indonesian Law No. 28 of 2014 on Copyright.
+   All rights remain with the Licensor. The Software is licensed, not sold.
+2. LICENSE GRANT. After full payment and activation with a valid license key, the User receives a
+   non-exclusive, non-transferable, non-sublicensable, perpetual right to install and use the Software on
+   ONE (1) device per license key, for the User's own business. Each key is bound to the device ID shown
+   at activation. Additional devices require additional keys. A backup copy of the installer may be kept
+   for reinstalling on the same device.
+3. RESTRICTIONS. The User must not: copy or use the Software beyond Section 2; share, sell, rent, lend or
+   transfer the Software or a license key; reverse engineer, decompile or disassemble it except where the
+   law expressly allows; modify it or create derivative works; bypass, disable or tamper with licensing,
+   activation or technical protection, or use keys not issued by the Licensor; remove proprietary notices;
+   or use the Software unlawfully.
+4. DEVICE CHANGES. If the device is replaced or its operating system is reinstalled and the device ID
+   changes, the User may request a replacement key with the old serial number and the new device ID.
+   Replacement is at the Licensor's reasonable discretion, provided the old device no longer uses the
+   Software.
+5. USER DATA AND PRIVACY. All business data entered by the User belongs to the User and is stored on the
+   User's own device or database server. The Software does not send business data to the Licensor. To check
+   for updates it contacts GitHub, which may receive the IP address and standard technical information.
+   The User is responsible for regular backups and for complying with laws that apply to its business.
+6. UPDATES AND SUPPORT. Updates may be provided from time to time and are covered by this Agreement. The
+   Licensor has no obligation to provide updates, specific features or support unless agreed in writing.
+7. THIRD-PARTY COMPONENTS. The Software contains open-source components under their own licenses, listed
+   on the About page and in "third-party-notices.txt". Nothing in this Agreement limits the User's rights
+   under those licenses for those components.
+8. LIMITED WARRANTY. The Licensor warrants that the Software, when delivered, substantially performs as
+   described. Otherwise, to the extent permitted by law, it is provided "AS IS" without other warranties.
+9. LIMITATION OF LIABILITY. To the extent permitted by law, the Licensor is not liable for indirect,
+   incidental or consequential damages, including lost profits, lost data or business interruption. Total
+   liability is limited to the amount paid for the license concerned.
+10. TERMINATION. The license ends if the User breaches this Agreement and does not cure it within 14 days
+   of notice, or immediately for breaches of Section 3 concerning sharing keys, reverse engineering or
+   bypassing licensing. The User must then stop using and delete the Software; business data remains the
+   User's.
+11. GOVERNING LAW. This Agreement is governed by the laws of the Republic of Indonesia. Disputes are first
+   settled amicably; if not resolved within 30 days, by the District Court with jurisdiction over the
+   Licensor's domicile.
+12. GENERAL. Invalid provisions do not affect the rest. This is the entire agreement on the Software.
