@@ -77,7 +77,19 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 ## 🕑 Riwayat Versi
 
 <!-- history:start -->
-### 0.7.1 · 20 Oktober 2026 — terbaru
+### 0.8.0 · 20 Oktober 2026 — terbaru
+
+#### Baru
+- **Kunci demo harian** — untuk mencoba Raja Kasir sebelum membeli lisensi.
+  - Satu kunci untuk komputer mana saja, berlaku hanya pada tanggalnya sampai pukul 23:59 WIB. Keesokan harinya kunci berganti.
+  - Kunci demo hari ini selalu tersedia di [halaman Raja Kasir](https://firexsantos.github.io/rajakasir/#demo); layar aktivasi juga menautkannya.
+  - Selama demo, bilah status menampilkan **Mode demo**, dan struk serta dokumen cetak bertanda **DEMO — bukan bukti transaksi sah**.
+  - Setelah masa demo habis, aplikasi kembali ke layar aktivasi. Data yang sudah dimasukkan tetap tersimpan dan bisa dilanjutkan setelah membeli lisensi.
+  - Kunci demo tidak bisa dipakai ulang dengan memundurkan tanggal komputer, dan tidak pernah menggantikan lisensi penuh yang masih aktif.
+
+<sub>[Halaman rilis 0.8.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.8.0)</sub>
+
+### 0.7.1 · 20 Oktober 2026
 
 #### Pembaruan
 - **Menutup aplikasi lebih aman**
@@ -90,7 +102,8 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 
 <sub>[Halaman rilis 0.7.1](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.7.1)</sub>
 
-### 0.7.0 · 20 Oktober 2026
+<details>
+<summary><b>0.7.0</b> · 20 Oktober 2026</summary>
 
 #### Baru
 - **Pembuat struk** — di Pengaturan → Struk & printer → Desain.
@@ -106,6 +119,8 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 Tampilan struk Anda tidak berubah sampai Anda memilih template lain.
 
 <sub>[Halaman rilis 0.7.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.7.0)</sub>
+
+</details>
 
 <details>
 <summary><b>0.6.2</b> · 20 Oktober 2026</summary>
