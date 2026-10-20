@@ -12,7 +12,7 @@ Cepat di meja kasir · Lengkap untuk pengelolaan toko · Tetap bekerja tanpa int
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-36d6ff)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Debian%20%7C%20AppImage-2dffb3)
 
-**[🛒 Pesan Lisensi via WhatsApp](https://wa.me/628121858819?text=Halo%20Raja%20Coding%2C%20saya%20ingin%20memesan%20lisensi%20Raja%20Kasir.)** &nbsp;·&nbsp; **[⬇️ Unduh Installer](https://github.com/firexsantos/rajakasir-releases/releases/latest)** &nbsp;·&nbsp; **[🌐 rajacoding.com](https://rajacoding.com)**
+**[🛒 Pesan Lisensi via WhatsApp](https://wa.me/628121858819?text=Halo%20Raja%20Coding%2C%20saya%20ingin%20memesan%20lisensi%20Raja%20Kasir.)** &nbsp;·&nbsp; **[⬇️ Unduh Installer](https://github.com/firexsantos/rajakasir-releases/releases/latest)** &nbsp;·&nbsp; **[✨ Situs Raja Kasir](https://firexsantos.github.io/rajakasir/)** &nbsp;·&nbsp; **[🌐 rajacoding.com](https://rajacoding.com)**
 
 <br>
 
