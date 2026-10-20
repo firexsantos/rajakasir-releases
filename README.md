@@ -77,7 +77,30 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 ## 🕑 Riwayat Versi
 
 <!-- history:start -->
-### 0.8.0 · 20 Oktober 2026 — terbaru
+### 0.9.0 · 20 Oktober 2026 — terbaru
+
+#### Baru
+- **Peran pengguna: Owner, Super Admin, dan Kasir** — satu orang bisa memiliki lebih dari satu peran.
+  - **Owner**: semua akses, ditambah pengguna & peran, log aktivitas, backup & pulihkan, dan pengaturan database.
+  - **Super Admin**: menambah, mengubah, dan menghapus data toko — barang, stok, pembelian, harga, pelanggan, promo, grosir, laporan, dan pengaturan toko.
+  - **Kasir**: meja kasir, sesi kasir sendiri, dan penjualan sendiri.
+  - Menu, bagian pengaturan, dan data yang tampil menyesuaikan peran yang sedang aktif.
+- **Ganti peran** lewat tombol peran di kiri bawah (atau **Ctrl+Shift+U**).
+  - Muncul pilihan semua peran yang Anda miliki, lalu tampilan berganti dengan animasi sesuai warna peran.
+  - Kasir langsung dibawa ke meja kasir; Owner dan Super Admin ke dasbor.
+  - Saat masuk berikutnya, Raja Kasir memakai peran terakhir Anda.
+- **Tombol Tutup di setiap halaman**, di samping tombol peran (juga di layar masuk).
+  - Sebelum menutup muncul konfirmasi, lalu database dicadangkan.
+  - Jika sesi kasir masih terbuka, ada pemberitahuan. Sesi tetap terbuka, dan saat Raja Kasir dibuka lagi Anda melanjutkan sesi tersebut.
+- Pengaturan → **Pengguna & peran**: penjelasan tiap peran, dan pilihan beberapa peran untuk setiap orang.
+
+#### Perubahan
+- Pengguna admin yang sudah ada otomatis menjadi **Owner + Kasir**, jadi tidak ada akses yang hilang. Kasir tetap Kasir.
+- Menu **Tentang** dan **Ganti tema** kini ada di menu pengguna (klik inisial nama Anda).
+
+<sub>[Halaman rilis 0.9.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.9.0)</sub>
+
+### 0.8.0 · 20 Oktober 2026
 
 #### Baru
 - **Kunci demo harian** — untuk mencoba Raja Kasir sebelum membeli lisensi.
@@ -89,7 +112,8 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 
 <sub>[Halaman rilis 0.8.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.8.0)</sub>
 
-### 0.7.1 · 20 Oktober 2026
+<details>
+<summary><b>0.7.1</b> · 20 Oktober 2026</summary>
 
 #### Pembaruan
 - **Menutup aplikasi lebih aman**
@@ -101,6 +125,8 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 - **Layar penuh otomatis** — Raja Kasir langsung terbuka layar penuh. Tekan **F11** untuk beralih. Mode pembukaan (layar penuh, maksimal, atau jendela) bisa dipilih di Pengaturan → Umum.
 
 <sub>[Halaman rilis 0.7.1](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.7.1)</sub>
+
+</details>
 
 <details>
 <summary><b>0.7.0</b> · 20 Oktober 2026</summary>
