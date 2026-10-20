@@ -77,7 +77,20 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 ## 🕑 Riwayat Versi
 
 <!-- history:start -->
-### 0.7.0 · 20 Oktober 2026 — terbaru
+### 0.7.1 · 20 Oktober 2026 — terbaru
+
+#### Pembaruan
+- **Menutup aplikasi lebih aman**
+  - Saat Raja Kasir ditutup (tombol ×, Alt+F4, menu Keluar, atau **Tutup Raja Kasir** di menu pengguna), muncul konfirmasi terlebih dahulu.
+  - Konfirmasi itu memberi peringatan kalau sesi kasir masih terbuka.
+  - Database lalu dicadangkan dengan layar progres: menyimpan transaksi, mencadangkan database, dan menyalin ke folder backup jika diatur. Setelah itu aplikasi tertutup.
+  - Kalau backup gagal, Anda tetap bisa memilih menutup atau tetap membuka aplikasi.
+  - Backup saat menutup bisa dimatikan di Pengaturan → Backup & pulihkan.
+- **Layar penuh otomatis** — Raja Kasir langsung terbuka layar penuh. Tekan **F11** untuk beralih. Mode pembukaan (layar penuh, maksimal, atau jendela) bisa dipilih di Pengaturan → Umum.
+
+<sub>[Halaman rilis 0.7.1](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.7.1)</sub>
+
+### 0.7.0 · 20 Oktober 2026
 
 #### Baru
 - **Pembuat struk** — di Pengaturan → Struk & printer → Desain.
@@ -94,12 +107,15 @@ Tampilan struk Anda tidak berubah sampai Anda memilih template lain.
 
 <sub>[Halaman rilis 0.7.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.7.0)</sub>
 
-### 0.6.2 · 20 Oktober 2026
+<details>
+<summary><b>0.6.2</b> · 20 Oktober 2026</summary>
 
 #### Pembaruan
 - Hitung laci saat membuka dan menutup sesi kasir kini mencakup pecahan **Rp 75.000**.
 
 <sub>[Halaman rilis 0.6.2](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.6.2)</sub>
+
+</details>
 
 <details>
 <summary><b>0.6.1</b> · 20 Oktober 2026</summary>
