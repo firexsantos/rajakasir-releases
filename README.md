@@ -77,7 +77,21 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 ## 🕑 Riwayat Versi
 
 <!-- history:start -->
-### 0.9.0 · 20 Oktober 2026 — terbaru
+### 0.10.0 · 21 Oktober 2026 — terbaru
+
+#### Baru
+- **Layar pembuka (splash screen)** setiap kali Raja Kasir dibuka.
+  - Persentase menunjukkan proses yang sebenarnya: memuat modul, menghubungkan database, memuat tampilan, sampai siap dipakai. Angkanya bergerak halus, tidak tampak macet.
+  - Empat segmen menandai tahapannya: Modul, Database, Tampilan, Siap.
+  - Tampilannya: latar aurora dengan partikel cahaya, logo mahkota yang tergambar perlahan di dalam cincin progres, tulisan RAJA KASIR yang muncul huruf demi huruf, serta nama toko dan versi aplikasi.
+  - Di 100%, logo bersinar lalu layar pembuka memudar dan Raja Kasir terbuka sesuai mode jendela pilihan Anda.
+
+#### Perbaikan
+- Saat komputer dimatikan atau keluar dari akun (log off), Raja Kasir langsung tertutup tanpa menunggu dialog konfirmasi. Menu **Keluar** di bilah menu kini meminta konfirmasi seperti tombol ×.
+
+<sub>[Halaman rilis 0.10.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.10.0)</sub>
+
+### 0.9.0 · 20 Oktober 2026
 
 #### Baru
 - **Peran pengguna: Owner, Super Admin, dan Kasir** — satu orang bisa memiliki lebih dari satu peran.
@@ -100,7 +114,8 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 
 <sub>[Halaman rilis 0.9.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.9.0)</sub>
 
-### 0.8.0 · 20 Oktober 2026
+<details>
+<summary><b>0.8.0</b> · 20 Oktober 2026</summary>
 
 #### Baru
 - **Kunci demo harian** — untuk mencoba Raja Kasir sebelum membeli lisensi.
@@ -111,6 +126,8 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
   - Kunci demo tidak bisa dipakai ulang dengan memundurkan tanggal komputer, dan tidak pernah menggantikan lisensi penuh yang masih aktif.
 
 <sub>[Halaman rilis 0.8.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.8.0)</sub>
+
+</details>
 
 <details>
 <summary><b>0.7.1</b> · 20 Oktober 2026</summary>
