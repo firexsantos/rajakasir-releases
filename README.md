@@ -77,7 +77,19 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 ## 🕑 Riwayat Versi
 
 <!-- history:start -->
-### 0.10.0 · 21 Oktober 2026 — terbaru
+### 0.10.1 · 21 Oktober 2026 — terbaru
+
+#### Perubahan
+- **Logo toko dipakai di mana-mana.** Selama logo belum diatur, yang tampil logo Raja Kasir. Setelah logo diatur di Pengaturan → Profil Toko, logo toko dipakai di:
+  - **Layar pembuka**: logo toko di tengah, nama toko sebagai judul besar, dan slogan toko. Berlaku mulai pembukaan berikutnya setelah logo diatur.
+  - **Ikon jendela dan taskbar** selama Raja Kasir berjalan.
+  - Logo di pojok kiri atas, layar masuk, kartu toko di dasbor, struk, laporan dan dokumen A4, layar backup saat menutup, serta layar aktivasi.
+- Jika logo dihapus, logo Raja Kasir kembali tampil.
+- Ikon installer dan shortcut di desktop / menu Start tetap ikon Raja Kasir, karena ikon itu dibuat saat pemasangan.
+
+<sub>[Halaman rilis 0.10.1](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.10.1)</sub>
+
+### 0.10.0 · 21 Oktober 2026
 
 #### Baru
 - **Layar pembuka (splash screen)** setiap kali Raja Kasir dibuka.
@@ -91,7 +103,8 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 
 <sub>[Halaman rilis 0.10.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.10.0)</sub>
 
-### 0.9.0 · 20 Oktober 2026
+<details>
+<summary><b>0.9.0</b> · 20 Oktober 2026</summary>
 
 #### Baru
 - **Peran pengguna: Owner, Super Admin, dan Kasir** — satu orang bisa memiliki lebih dari satu peran.
@@ -113,6 +126,8 @@ Printer struk thermal, scanner barcode, dan laci kas bersifat opsional.
 - Menu **Tentang** dan **Ganti tema** kini ada di menu pengguna (klik inisial nama Anda).
 
 <sub>[Halaman rilis 0.9.0](https://github.com/firexsantos/rajakasir-releases/releases/tag/v0.9.0)</sub>
+
+</details>
 
 <details>
 <summary><b>0.8.0</b> · 20 Oktober 2026</summary>
